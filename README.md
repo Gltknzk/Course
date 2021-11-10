@@ -1,4 +1,4 @@
-# DevOps: CSC 519
+# D1365
 -------------------------
 
 In this course, you will gain practical exposure to the skills, tools, and knowledge needed in automating software engineering processes and infrastructure necessary for continuous deployment of software. Students will have the chance to build new or extend existing software engineering tools and design an automated deployment pipeline.
